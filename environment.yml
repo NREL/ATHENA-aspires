@@ -1,0 +1,11 @@
+name: ASPIRES
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - pip
+  - pip:
+    - simpy
