@@ -1,10 +1,17 @@
 # ASPIRES: Airport Shuttle Planning and Improved Routing Event-driven Simulation
-## Authors:
+## Contributors:
 Qichao Wang <Qichao.Wang@nrel.gov>
 <br>
 Devon Sigler <Devon.Sigler@nrel.gov>
 <br>
+Andrew Kotz <Andrew.Kotz@nrel.gov>
+<br>
 Zhaocai Liu <Zhaocai.Liu@nrel.gov>
+<br>
+Kenneth Kelly <Kenneth.Kelly@nrel.gov>
+<br>
+Caleb Phillips <Caleb.Phillips@nrel.gov>
+
 ### Purpose
 To fast simulate airport shuttle operations with the data collected.
 The simulation inputs are passenger arrival rates, shuttle routes and frequencies, and simulation configurations. The outputs include: time dependent shuttle energy level, time dependent charging station usage, time dependent number of passengers on each bus, time dependent number of passengers at each bus stop, history of number of passengers left at each bus stop, route history of fleet shuttle buses and on-demand buses, and time dependent bus distance traveled.
