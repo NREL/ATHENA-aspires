@@ -11,6 +11,8 @@ Zhaocai Liu <Zhaocai.Liu@nrel.gov>
 Kenneth Kelly <Kenneth.Kelly@nrel.gov>
 <br>
 Caleb Phillips <Caleb.Phillips@nrel.gov>
+### Publication
+This work will be presented at 2020 TRB Workshop on Traffic Simulation and CAV Modeling.
 
 ### Purpose
 To fast simulate airport shuttle operations with the data collected.
